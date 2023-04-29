@@ -91,21 +91,21 @@ while True:
                     speak = speak + "Opening Google Chrome"
                     print("Assistant : ",speak)
                     os.startfile(
-                        r"C:\Program Files\Google\Chrome\Application\chrome.exe"
+                        r"C:\...\chrome.exe"
                     )
 
                 elif "word" in text.lower():
                     speak = speak + "Opening Microsoft Word"
                     print("Assistant : ",speak)
                     os.startfile(
-                        r"C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"
+                        r"C:\...\WINWORD.EXE"
                     )
 
                 elif "excel" in text.lower():
                     speak = speak + "Opening Microsoft Excel"
                     print("Assistant : ",speak)
                     os.startfile(
-                        "C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE"
+                        "C:\...\EXCEL.EXE"
                     )
 
                 elif "youtube" in text.lower():
