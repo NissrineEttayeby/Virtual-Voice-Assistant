@@ -12,9 +12,9 @@ Virtual Voice Assisant is an assistant that can help you with a variety of tasks
 - Reminding you about your upcoming events on the calendar.
 - Opening apps and website such as Youtube, Word, Excel, Github.
 - Telling you your IP address.
-- Telling the jokes.
+- Telling you jokes.
 - Showing maps of any city you specify.
-- Answring many others stuff.
+- Answring many other stuff.
 
 
 # Test
