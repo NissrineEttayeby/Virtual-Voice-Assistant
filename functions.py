@@ -138,7 +138,7 @@ def note(command):
 
 
 def calculate(text):
-    app_id = "YK2Y63-46W8GJWYYU"
+    app_id = "API_KEY"
     client = wolframalpha.Client(app_id)
     ind = text.lower().find("calculate")
     query = text[ind + 10:]
@@ -159,7 +159,7 @@ def google_calendar():
             creds.refresh(Request())
         else:
             flow = InstalledAppFlow.from_client_secrets_file(
-                '../../VirtualAssistant/credentials.json', SCOPES)
+                '../../VirtualAssistant/cred.json', SCOPES)
             creds = flow.run_local_server(port=0)
 
         with open('token.pickle', 'wb') as token:
@@ -183,7 +183,7 @@ def calendar_events(num, service):
     for event in events:
         start = event['start'].get('dateTime', event['start'].get('date'))
         events_today = (event['summary'])
-        start_time = str(start.split("T")[1].split("-")[0])  # get the hour the event starts
+        start_time = str(start.split("T")[1].split("-")[0])  # get the hour when the event will starts
         if int(start_time.split(":")[0]) < 12:  # if the event is in the morning
             start_time = start_time + "am"
         else:
