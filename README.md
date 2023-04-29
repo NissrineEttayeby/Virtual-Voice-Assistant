@@ -22,10 +22,10 @@ Virtual Voice Assisant is an assistant that can help you with a variety of tasks
 
 ![image](https://user-images.githubusercontent.com/108592629/235312006-ab9f528e-eb16-4f82-b36c-978fa3edd563.png)
 
-* Note!
-##### You have to provide less email security and type your email and password on the code. So that the assistant can send emails for you. In my case, I did not do that, which is why the error occurred while the assistant tried to send the email.
-
 ![vir3](https://user-images.githubusercontent.com/108592629/235312017-98aaf1d9-aecf-4825-a261-ba2dd44a99d8.png)
+
+> Note!
+##### You have to provide less email security and type your email and password on the code. So that the assistant can send emails for you. In my case, I did not do that, which is why the error occurred while the assistant tried to send the email.
 
 ![image](https://user-images.githubusercontent.com/108592629/235322626-2587b7c2-f686-460b-908f-d2a846a06c00.png)
 
