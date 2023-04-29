@@ -1,5 +1,7 @@
 # Virtual-Voice-Assistant
-Virtual Voice Assisant is an assistant that can help you with a variety of tasks. This is a python project using differents libraries such as Speech Recognition , text-to-speech conversion... And Google API,Wolframaplha API .
+Virtual Voice Assisant is an assistant that can help you with a variety of tasks. This is a python project using differents libraries such as Speech Recognition , text-to-speech conversion... And Google API,Wolframaplha API.
+
+
 ![image](https://user-images.githubusercontent.com/108592629/235311198-7633e24d-80f2-4f90-b687-df076a2536ee.png)
 
 # Capabilities of Virtual voice assisitant
@@ -22,5 +24,6 @@ Virtual Voice Assisant is an assistant that can help you with a variety of tasks
 
 ![vir3](https://user-images.githubusercontent.com/108592629/235312017-98aaf1d9-aecf-4825-a261-ba2dd44a99d8.png)
 
-![vir4](https://user-images.githubusercontent.com/108592629/235312039-777b4d7d-756a-4bb8-b7d8-5f202f7be914.png)
+![image](https://user-images.githubusercontent.com/108592629/235322626-2587b7c2-f686-460b-908f-d2a846a06c00.png)
+
 
