@@ -4,7 +4,7 @@ Virtual Voice Assisant is an assistant that can help you with a variety of tasks
 
 ![image](https://user-images.githubusercontent.com/108592629/235311198-7633e24d-80f2-4f90-b687-df076a2536ee.png)
 
-# Capabilities of Virtual voice assisitant
+# Capabilities of Virtual voice assistant
 - Sending emails.
 - Performing math operations.
 - Taking notes for what you say.
